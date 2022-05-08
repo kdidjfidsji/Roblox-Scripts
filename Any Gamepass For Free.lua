@@ -1,4 +1,4 @@
-gamePassId = 6028667
+gamePassId = 26483576
 market = game:GetService("MarketplaceService")
 http = game:GetService("HttpService")
 info = market:GetProductInfo(gamePassId, Enum.InfoType.GamePass)
